@@ -1,3 +1,3 @@
 # ClassMetotDemo
-#Nitelikli Yazılım Geliştirme Kampı
+#Engin Demiroğ-Nitelikli Yazılımcı Geliştirme Kampı
 #3.Gün Ödevi
